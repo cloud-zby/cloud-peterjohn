@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, this is Peter John! 🥺 ᓚᘏᗢ</h1>
+<h1 align="center">Hi👋, this is Ping-Yeh Chou! 🥺 ᓚᘏᗢ</h1>
 
 ### My personal homepage: [https://cloud-peterjohn.github.io](https://cloud-peterjohn.github.io)! Welcome!
 

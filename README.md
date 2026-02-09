@@ -8,6 +8,7 @@
 ## 👀 Homepage Visits
 ![Visitor Count](https://komarev.com/ghpvc/?username=cloud-zby&style=flat-square)
 
+<!--
 ## 💡 Projects
 
 - 😇 [EDNAG](https://github.com/cloud-zby/EDNAG): Neural Architecture Generation by [Evolutionary-Guided Diffusion Models](https://arxiv.org/abs/2504.17827), with Experiments on NAS-Bench-101, NAS-Bench-201, NAS-Bench-301, TransNASBench-101, and MobileNetV3.
@@ -17,6 +18,7 @@
 - 😋 [Acceleration of LLM](https://github.com/cloud-zby/LLM-Acceleration.git): Comprehensive Acceleration of Llama-3.2-3B-Instruct with GPTQ-Quantization, VLLM, KV-Cache Quantization, Speculative Decoding, and Flash Attention.
 - 🥳 [Deploy LLM on Edge Deivce](https://github.com/cloud-zby/Deploy-LLM-on-Edge-Deivce.git): Deploy Llama-3.2-3B-Instruct with MLC-LLM on NVIDIA-RTX-3050 with Over 30+ Throughput.
 - 😝 [Network Anomaly Detection](https://github.com/cloud-zby/Network_Anomaly_Detection.git): Subspace and Deep Feature Network Fusion for Outlier Detection in High-Dimensional Network Scenarios.
+-->
 
 
 ## 🎈  Followers

@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋, this is Ping-Yeh Chou! 🥺 ᓚᘏᗢ</h1>
 
-### My personal homepage: [https://cloud-zby.github.io](https://cloud-zby.github.io)! Welcome!
 
 ## 🌏 My Contribution Heatmap
 ![](https://github.com/cloud-zby/cloud-zby/blob/output/github-contribution-grid-snake.svg)
